@@ -11,6 +11,10 @@ This project aims to classify dog breeds using a deep learning model built with 
 The goal is to create an accurate and efficient system for recognizing different dog breeds from images.  
 The dataset contains various breeds with varying image counts, so models are evaluated with a focus on **accuracy** and **confusion matrix analysis** to ensure robust performance.
 
+## Dataset
+The dataset is stored on Google Drive. Download it from:
+[Download Test Dataset](https://drive.google.com/drive/folders/1L-0apouI0Q4KhZJ-8U9Vf2G4RFxxv4y9?usp=sharing)
+[Download Train Dataset](https://drive.google.com/drive/folders/1o8V7hvcvO4o9rN1nvIM9Lz50Ypza9Mhq?usp=sharing)
 ---
 
 ## 2. Data Preprocessing
