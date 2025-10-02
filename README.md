@@ -48,6 +48,9 @@ The model was built using TensorFlow and consists of:
 | Accuracy     | 0.70    |
 **Note:** Metrics are calculated using the validation set to evaluate generalization performance.
 
+Additionally, the model provides a function that returns the probability (%) of an image belonging to each dog breed.  
+This allows detailed insight into the model's prediction confidence for all classes.
+
 ---
 
 ## 6. Usage
